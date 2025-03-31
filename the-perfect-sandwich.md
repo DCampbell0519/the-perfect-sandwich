@@ -11,11 +11,11 @@ const myBread = sourdough;
 console.log(myBread + " is the only bread worth breading.")
 ``` 
 
-> PRO TIP: Melt a little butter to the outsides of your sourdough.  Turn that bad boy into a grilled-cheese-style man-wich!
+> PRO TIP: Melt a little butter to the outsides of your sourdough and fry on a skillet.  Turn that bad boy into a grilled-cheese-style man-wich!
 
 ## 2. The Spread
 
-The Spread is your opportunity to really *individualize* your sandwich.  Mayhaps that tub of full-fat *mayo* gets the nostalgic juices flowing, reminiscent of weekends at Grandma's when you were young and enjoyed the immortality of youth.  Mayhaps you watched a lot of Buffy The Vampire Slayer at a formative age and think a nice *Garlic Aioli* is the way to go.  Or maybe you're like me and enjoy a nice kick.  Mayhaps a nice *creamy horseradish* is the way to go!
+The Spread is your opportunity to really *individualize* your sandwich.  Mayhaps that tub of full-fat *mayo* gets the nostalgic juices flowing, reminiscent of weekends at Grandma's when you were young and enjoyed the immortality of youth.  Mayhaps you watched a lot of Buffy The Vampire Slayer at a formative age and think a nice *Garlic Aioli* sounds like a good time.  Or maybe you're like me and enjoy a nice kick.  Mayhaps a nice *creamy horseradish* is the way to go!
 
 ```javascript
 const mySpread = ["Garlic Aioli", "Mayo"];
@@ -50,7 +50,7 @@ The meat and cheese portion is/are probably the most subjective ingredient(s) of
 Good toppings are kind of like *The Spread* with regards to their versatility.  But also tend to be much less exciting, kind of like every Marvel movie after *End Game.*  But like most things in life, a spectrum exists.  And just like the MCU ranges from Winter Soldier > Madame Web, so to do sandwich toppings range from Hard-Boiled Egg > raw onion.
 
 ### ***In Descending Order of Greatness:***
-- Hard-Boiled Egg
+- Fried Egg
 - Avocado
 - Oregano
 - Sauteed Mushrooms
