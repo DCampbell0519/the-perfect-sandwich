@@ -47,7 +47,7 @@ The meat and cheese portion is/are probably the most subjective ingredient(s) of
 
 ## 4. Toppings
 
-Good toppings are kind of like *The Spread* with regards to their versatility.  But also tend to be much less exciting, kind of like every Marvel movie after *End Game.*  But like most things in life, a spectrum exists.  And just like the MCU ranges from Winter Soldier > Madame Web, so to do sandwich toppings range from Hard-Boiled Egg > raw onion.
+Good toppings are kind of like *The Spread* with regards to their versatility.  But also tend to be much less exciting, kind of like every Marvel movie after *End Game.*  But like most things in life, a spectrum exists.  And just like the MCU ranges from Winter Soldier > Madame Web, so too do sandwich toppings range from a Fried Egg > raw onion.
 
 ### ***In Descending Order of Greatness:***
 - Fried Egg
@@ -67,7 +67,7 @@ Good toppings are kind of like *The Spread* with regards to their versatility.  
 
 ## 5. Putting It All Together
 
-The time is nigh.  Your appetite has made you hangry.  Your ingredients and fixins are strewn about the counter.  Your significant other is prowling outside the kitchen wondering just what kind of monstronsity he/she is going to have to clean up later.  All that's left to do is jigsaw puzzle all of the pieces together.  And then... we feast.
+The time is nigh!  Your appetite has made you hangry.  Your ingredients and fixins are strewn about the counter.  Your significant other is prowling outside the kitchen wondering just what kind of monstronsity he/she is going to have to clean up later.  All that's left to do is jigsaw puzzle all of the pieces together.  And then... we feast.
 
 > PRO TIP: The Cheese should always be the outermost layer of any sandwich.  It acts as a moisture barrier for the bread!
 
